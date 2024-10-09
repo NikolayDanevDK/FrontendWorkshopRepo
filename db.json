@@ -1,0 +1,34 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": 'ProRogueX',
+      "fraction": 'Horde',
+      "class": 'Rogue'
+    },
+    {
+      "id": 2,
+      "name": 'ProHunterX',
+      "fraction": 'Alliance',
+      "class": 'Hunter'
+    },
+    {
+      "id": 3,
+      "name": 'ProWarriorX',
+      "fraction": 'Horde',
+      "class": 'Warrior'
+    },
+    {
+      "id": 4,
+      "name": 'ProMageX',
+      "fraction": 'Alliance',
+      "class": 'Mage'
+    },
+    {
+      "id": 5,
+      "name": 'ProPaladinX',
+      "fraction": 'Alliance',
+      "class": 'Paladin'
+    }
+  ]
+}
